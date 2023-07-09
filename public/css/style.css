@@ -54,3 +54,9 @@ section.download {
   .send-btn-container a:hover {
       background: var(--dark-blue);
   }
+  .logo{
+    height: 75%;
+    width: 25%;
+    margin-top: 75px;
+    margin-left: 15px;
+  }
